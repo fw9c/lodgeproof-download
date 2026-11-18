@@ -327,3 +327,22 @@ table {
   display: block;
   overflow-x: auto;
 }
+
+/* The user guide's pictures (guide.html). */
+figure {
+  margin: 1.25rem 0 1.75rem;
+}
+
+figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+}
+
+figcaption {
+  margin-top: 0.4rem;
+  color: var(--slate);
+  font-size: 0.95rem;
+}
