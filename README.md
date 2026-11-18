@@ -1,4 +1,6 @@
-# Lodgeproof
+<img src="lodgeproof-mark.svg" width="64" alt="">
+
+# lodgeproof
 
 Lodgeproof checks a retrofit job's paperwork against PAS 2035 before it is lodged, so you find
 what would stop it passing audit while there is still time to fix it. You review what it found
