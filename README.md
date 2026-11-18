@@ -12,6 +12,8 @@ internet connection.
 **This is a beta.** Findings are advisory and the rules are not yet verified against the
 published standards. Always check against PAS 2035/2030 and your scheme's guidance.
 
+Website: https://fw9c.github.io/lodgeproof-download/
+
 ## Download
 
 [Download the latest Windows installer](https://github.com/fw9c/lodgeproof-download/releases/latest)
@@ -39,4 +41,5 @@ Use "Send feedback" at the top of the app, or email lodgeproof@gmail.com.
 
 ---
 
-This repository holds only the installers. Lodgeproof's source code is not published.
+This repository holds only the installers and the website (`docs/`). Lodgeproof's source code
+is not published.
